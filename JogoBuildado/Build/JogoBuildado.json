@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "JogoBuildado.data.unityweb",
+"asmCodeUrl": "JogoBuildado.asm.code.unityweb",
+"asmMemoryUrl": "JogoBuildado.asm.memory.unityweb",
+"asmFrameworkUrl": "JogoBuildado.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
